@@ -22,21 +22,162 @@ Contents
 *   Classroom Observation Checklist ([PDF]({{< baseurl >}}/resources/class_checklist))
 *   Index ([PDF]({{< baseurl >}}/resources/index-1))
 
-| TABLE OF CONTENTS | NOTES |
-| --- | --- |
-| 1\. The Glass Wall: Encouraging Interaction | ([PDF]({{< baseurl >}}/resources/chapter1)) |
-| 2\. Questions: Theirs and Yours | ([PDF]({{< baseurl >}}/resources/chapter2)) |
-| 3\. Before You Walk In | ([PDF]({{< baseurl >}}/resources/chapter3)) |
-| 4\. A Word About Pedagogy | ([PDF]({{< baseurl >}}/resources/chapter4)) |
-| 5\. In The Classroom | ([PDF]({{< baseurl >}}/resources/chapter5)) |
-| 6\. Off to a Good Start | ([PDF]({{< baseurl >}}/resources/chapter6)) |
-| 7\. Basic Communication Skills | ([PDF]({{< baseurl >}}/resources/chapter7)) |
-| 8\. Seeing Is Understanding: Using the Blackboard | ([PDF]({{< baseurl >}}/resources/chapter8)) |
-| 9\. Evaluating Your Students: Assignment, Exams, Grades | ([PDF]({{< baseurl >}}/resources/chapter9)) |
-| 10\. Evaluating You: Feedback | ([PDF]({{< baseurl >}}/resources/chapter10)) |
-| 11\. Small Groups: Tutorials and Office Hours | ([PDF]({{< baseurl >}}/resources/chapter11)) |
-| 12\. Invisible Students | ([PDF]({{< baseurl >}}/resources/chapter12)) |
-| 13\. Teachers From Other Countries | ([PDF]({{< baseurl >}}/resources/chapter13)) |
-| 14\. Problem Students and Students with Problem | ([PDF]({{< baseurl >}}/resources/chapter14)) |
-| 15\. Epilogue: A Word about You | ([PDF]({{< baseurl >}}/resources/chapter15)) |
-| 16\. Summary | ([PDF]({{< baseurl >}}/resources/chapter16))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TABLE OF CONTENTS
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. The Glass Wall: Encouraging Interaction
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Questions: Theirs and Yours
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Before You Walk In
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. A Word About Pedagogy
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. In The Classroom
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. Off to a Good Start
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7\. Basic Communication Skills
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8\. Seeing Is Understanding: Using the Blackboard
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9\. Evaluating Your Students: Assignment, Exams, Grades
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10\. Evaluating You: Feedback
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11\. Small Groups: Tutorials and Office Hours
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12\. Invisible Students
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13\. Teachers From Other Countries
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14\. Problem Students and Students with Problem
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15\. Epilogue: A Word about You
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16\. Summary
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/chapter16))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
