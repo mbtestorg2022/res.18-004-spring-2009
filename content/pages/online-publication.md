@@ -7,7 +7,7 @@ uid: 5fff0db5-801c-4640-647b-2436c93d280a
 Textbook
 --------
 
-*   The complete text in a single file ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.5MB]({{< baseurl >}}/resources/mitres18-004_torch_or_the_firehose))
+*   The complete text in a single file ([PDF - 2.5MB]({{< baseurl >}}/resources/mitres18-004_torch_or_the_firehose))
 
 Translations
 ------------
